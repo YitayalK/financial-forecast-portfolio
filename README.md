@@ -51,11 +51,11 @@ pip install -r requirements.txt
    ```
 2. **Run Data Collection:**
    ```sh
-   python scripts/data_collection.py
+   python notebooks/data_processing.ipynb
    ```
 3. **Perform EDA:**
    ```sh
-   python scripts/eda.py
+   python notebooks/exxploratory_data_analysis.ipynb
    ```
 4. **Train ARIMA Model:**
    ```sh
